@@ -1,0 +1,10 @@
+:root {
+    --bs-primary-base: #1F5E57;
+    --bs-primary-bg: #1F5E57;
+    --bs-primary-contrast: #ffffff;
+
+    --bs-accent-base: #E48A1D;
+
+    --bs-bg-body: #F8F5EF;
+    --bs-fg-body: #252525;
+}
