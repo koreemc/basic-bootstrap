@@ -1,7 +1,7 @@
 
 // Get the HTML elements
 const loadAllButton = document.getElementById("loadAllProducts");
-const loadLipstickButton = document.getElementById("loadLipstick");
+const loadProdButton = document.getElementById("loadProduct");
 const productList = document.getElementById("productList");
 
 // API URL
@@ -52,7 +52,7 @@ loadAllButton.addEventListener("click", function() {
 
 
 // FUNCTION 2: Load only the lipstick
-loadLipstickButton.addEventListener("click", function() {
+loadProdButton.addEventListener("click", function() {
 
     // Display loading message
     productList.textContent = "Loading eyeshadow...";
