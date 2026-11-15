@@ -5,7 +5,7 @@ const loadProdButton = document.getElementById("loadProduct");
 const productList = document.getElementById("productList");
 
 // API URL
-const apiURL = "https://demo-backend.infinityfree.me/api.php";
+const apiURL = "https://demo-backend.infinityfree.me/products.json";
 
 
 // FUNCTION 1: Load all products
